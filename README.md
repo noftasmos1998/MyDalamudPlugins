@@ -1,1 +1,2 @@
 # MyDalamundPlugins
+Miqotea plugin repo
