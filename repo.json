@@ -1,0 +1,25 @@
+[
+  {
+    "Author": "Noftasmos Moon",
+    "Name": "Miqo'tea Room Order Manager",
+    "InternalName": "MiqoteaRoomOrderManager",
+    "AssemblyVersion": "0.0.0.1",
+    "Description": "A plugin that will hopefully make servers life easier.",
+    "ApplicableVersion": "any",
+    "Tags": [
+      "miqo'tea'",
+      "plugin",
+      "private"
+    ],
+    "DalamudApiLevel": 10,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "CanUnloadAsync": false,
+    "LoadPriority": 0,
+    "IconUrl": "https://i.imgur.com/b0VNoyG.png",
+    "Punchline": "Plugin to help servers do math since they have lil brain.",
+    "AcceptsFeedback": true,
+    "DownloadLinkInstall": "https://github.com/noftasmos1998/MiqoteaRoomOrderManager/releases/download/v1/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/noftasmos1998/MiqoteaRoomOrderManager/releases/download/v1/latest.zip"
+  }
+]
