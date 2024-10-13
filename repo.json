@@ -3,7 +3,7 @@
     "Author": "Noftasmos Moon",
     "Name": "Miqo'tea Room Order Manager",
     "InternalName": "MiqoteaRoomOrderManager",
-    "AssemblyVersion": "1.1.4",
+    "AssemblyVersion": "1.2.0",
     "Description": "A plugin that will hopefully make servers life easier.",
     "ApplicableVersion": "any",
     "Tags": [
