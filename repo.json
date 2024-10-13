@@ -3,7 +3,7 @@
     "Author": "Noftasmos Moon",
     "Name": "Miqo'tea Room Order Manager",
     "InternalName": "MiqoteaRoomOrderManager",
-    "AssemblyVersion": "1.2.0",
+    "AssemblyVersion": "1.2.1",
     "Description": "A plugin that will hopefully make servers life easier.",
     "ApplicableVersion": "any",
     "Tags": [
@@ -19,7 +19,7 @@
     "IconUrl": "https://i.imgur.com/b0VNoyG.png",
     "Punchline": "Plugin to help servers do math since they have lil brain.",
     "AcceptsFeedback": true,
-    "DownloadLinkInstall": "https://github.com/noftasmos1998/MiqoteaRoomOrderManager/releases/download/v1.2.0/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/noftasmos1998/MiqoteaRoomOrderManager/releases/download/v1.2.0/latest.zip"
+    "DownloadLinkInstall": "https://github.com/noftasmos1998/MiqoteaRoomOrderManager/releases/download/v1.2.1/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/noftasmos1998/MiqoteaRoomOrderManager/releases/download/v1.2.1/latest.zip"
   }
 ]
